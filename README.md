@@ -35,7 +35,7 @@ SymbolNodeViewerは、M5Stack Core2を使用して、Symbolブロックチェー
 
 3. SDカードに `config.txt` ファイルを作成し、以下の形式で設定を記述します：
 
-4. 4. SDカードをM5Stack Core2に挿入します。
+4. SDカードをM5Stack Core2に挿入します。
 
 5. プロジェクトをコンパイルし、M5Stack Core2に書き込みます。
 
