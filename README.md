@@ -40,11 +40,11 @@ SymbolNodeViewerは、M5Stack Core2を使用して、Symbolブロックチェー
 5. プロジェクトをコンパイルし、M5Stack Core2に書き込みます。
 
 ## SDカードの内容
-ssid=YOUR_WIFI_SSID
-password=YOUR_WIFI_PASSWORD
-api_url=YOUR_API_URL + /chain/info
-node_domain=YOUR_NODE_DOMAIN
-
+ssid=YOUR_WIFI_SSID  
+password=YOUR_WIFI_PASSWORD  
+api_url=YOUR_API_URL + /chain/info  
+node_domain=YOUR_NODE_DOMAIN  
+  
 ## 使用方法
 
 1. M5Stack Core2の電源を入れます。
